@@ -10,3 +10,5 @@ We conduct an analysis and trained various models on a dataset containing tweets
 | ------ | ------ |
 | `SEXIST_TWEETS_CLASSIFICATION_BAHI_CUVELIER.ipynb` | Project Google Colab |
 | `ML_for_NLP_ENSAE_2122_BAHI_CUVELIER.pdf` | Project report |
+
+Link to colab : [Link](https://colab.research.google.com/drive/1sKiJxTIruqJGkR_EkMp7Vp9l09pSmasF#scrollTo=hB8Ep4wwlZPV)
